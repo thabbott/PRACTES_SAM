@@ -24,7 +24,7 @@ Yes! SAM cannot
 4. Easily initialize itself from global forecast models (so limited usefulness for case studies or forecasting)
 5. Run in 2D axisymmetric mode (so no cheap hurricane simulations)
 
-(Although an experimental version of the model can do 2-4). If you're interested in any of 2-5, CM1 (https://www2.mmm.ucar.edu/people/bryan/cm1/) or WRF (https://www.mmm.ucar.edu/weather-research-and-forecasting-model) are good alternatives.
+(Although the experimental version of the model can do 2-4). If you're interested in any of 2-5, CM1 (https://www2.mmm.ucar.edu/people/bryan/cm1/) or WRF (https://www.mmm.ucar.edu/weather-research-and-forecasting-model) are good alternatives.
 
 ## Who in EAPS uses SAM?
 
